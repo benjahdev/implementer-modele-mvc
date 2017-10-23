@@ -1,0 +1,13 @@
+{
+    "name": "benjah/implementer-modele-mvc",
+    "authors": [
+        {
+            "name": "Benjahdev",
+            "email": "benjahdev@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"ModelMVC\\": "src/"}
+    },
+    "require": {}
+}
